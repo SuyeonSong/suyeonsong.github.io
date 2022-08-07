@@ -6,7 +6,7 @@ title: Suyeon Song
 superuser: true
 
 # Role/position/tagline
-role: Graduate student majoring in Clinical Psychology
+role: Master's student in Clinical Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
