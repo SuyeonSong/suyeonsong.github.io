@@ -39,10 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'suyeon619@snu.ac.kr'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://twitter.com/su_yeon_song
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
