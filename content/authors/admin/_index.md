@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'suyeon619@snu.ac.kr'
+    link: 'mailto:suyeon619@snu.ac.kr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/su_yeon_song
