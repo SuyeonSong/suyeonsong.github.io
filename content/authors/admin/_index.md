@@ -67,4 +67,4 @@ email: 'suyeon619@snu.ac.kr'
 highlight_name: true
 ---
 
-Suyeon Song is a graduate student at the Computational Clinical Science Laboratory at Seoul National University. Her research interests lie in addictions and digital psychotherapy. In particular, she wants to identify digital phenotypes to predict addictions using computational and neuroscientific approaches. She also wants to develop and validate digital therapeutics for individuals with mental health problems.
+Hello! I am a graduate student at the Computational Clinical Science Laboratory at Seoul National University. My research interests lie in addictions and digital psychotherapy. In particular, I want to identify digital phenotypes to predict addictions using computational and neuroscientific approaches. I also want to develop and validate digital therapeutics for individuals with mental health problems.
