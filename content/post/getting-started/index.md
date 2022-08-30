@@ -37,7 +37,7 @@ tags:
   - KHBM
 
 categories:
-  - Demo
+  - Posts
 ---
 
 ## Overview
