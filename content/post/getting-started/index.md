@@ -1,6 +1,6 @@
 ---
-title: 2022 KHBM summer school
-subtitle: Aug 26 - 27, 2022
+title: 2022 KHBM summer school: OHBM Korea Chapter Program
+subtitle: Aug 26-27, 2022
 
 # Summary for listings and search engines
 summary: I attended the 2022 KHBM Summer school hosted by the Korean Society for Human Brain Mapping. I had a wonderful time in Ramada hotel, Pyeongchang for 2 days. I am glad that I learned much about the state of the art in computational neuroscience.
