@@ -1,5 +1,5 @@
 ---
-title: 2022 KHBM summer school: OHBM Korea Chapter Program
+title: "2022 KHBM summer school: OHBM Korea Chapter Program"
 subtitle: Aug 26-27, 2022
 
 # Summary for listings and search engines
