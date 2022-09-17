@@ -11,5 +11,5 @@
         "editor.quickSuggestions": false,
         "editor.minimap.enabled": false
     },
-    "frontMatter.content.autoUpdateDate": true
+    "frontMatter.content.autoUpdateDate": false
 }
