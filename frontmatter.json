@@ -1,0 +1,115 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "subtitle",
+          "name": "subtitle",
+          "type": "string"
+        },
+        {
+          "title": "summary",
+          "name": "summary",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Modified date",
+          "name": "lastmod",
+          "type": "datetime",
+          "isModifiedDate": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Show this page in the Featured widget?",
+          "name": "featured",
+          "type": "boolean",
+          "default": "false"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        
+        {
+          "title": "projects",
+          "name": "projects",
+          "type": "fields",
+          "fields": []
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "Suyeon"
+          ]
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "caption",
+              "name": "caption",
+              "type": "string"
+            },
+            {
+              "title": "focal_point",
+              "name": "focal_point",
+              "type": "string"
+            },
+            {
+              "title": "placement",
+              "name": "placement",
+              "type": "number"
+            },
+            {
+              "title": "preview_only",
+              "name": "preview_only",
+              "type": "boolean"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "post",
+      "path": "[[workspace]]/content/post"
+    },
+    {
+      "title": "authors",
+      "path": "[[workspace]]/content/authors"
+    }
+  ],
+  "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd'T'HH:mm:ssxx",
+  "frontMatter.framework.id": "hugo"
+}
