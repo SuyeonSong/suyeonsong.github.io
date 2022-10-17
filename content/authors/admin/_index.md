@@ -19,7 +19,7 @@ bio: My research interests include addiction and digital psychotherapy.
 # Interests to show in About widget
 interests:
   - Addiction
-  - Digital phenotyping
+  - Computational Psychiatry
   - Digital therapeutics
 
 # Education to show in About widget
