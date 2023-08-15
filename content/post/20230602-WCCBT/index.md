@@ -1,9 +1,9 @@
 ---
-title: "My first poster presentation at WCCBT 2023"
+title: "Poster presentation at WCCBT 2023"
 subtitle: 1-4 June, 2023, Seoul, Korea
 
 # Summary for listings and search engines
-summary: Presented a poster at WCCBT 2023
+summary: Presented a poster at the 10th World Congress of Cognitive and Behavioural Therapies
 
 # Link this post with a project
 projects: []
