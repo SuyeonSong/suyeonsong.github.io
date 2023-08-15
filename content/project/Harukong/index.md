@@ -1,9 +1,9 @@
 ---
-title: To be updated
-summary: Will be updated soon!
-tags:
+title: Harukong
+summary: Predicting the next day's moods using mood journal app
+tags: App data
   - 
-date: ''
+date: '2023-03'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
