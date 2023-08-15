@@ -1,7 +1,7 @@
 ---
 title: Harukong
 summary: Predicting the next day's moods using mood journal app
-tags: App data
+tags: 
   - 
 date: '2023-03'
 
