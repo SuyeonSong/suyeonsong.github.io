@@ -41,8 +41,5 @@ categories:
 
 ## Overview
 
-I presented my research poster, titled "The Relationship Between Daily Activities and Mood: A Study of Korean Users of the Harukong App," at the 10th WCCBT (World Congress of Cognitive and Behavioural Therapies) held in Seoul, Korea, in June 2023. This event marked my first interaction with researchers from around the world. I received valuable advice and feedback; some researchers offered insightful guidance, while others found my work truly inspiring. I made an effort to actively connect with the global research community, aiming to expand my network and seize the full potential of this enriching experience. This event played a crucial role in broadening my horizons within the realm of networking.
-
-
-
+I presented my research poster, titled "The Relationship Between Daily Activities and Mood: A Study of Korean Users of the Harukong App," at the 10th WCCBT (World Congress of Cognitive and Behavioural Therapies) held in Seoul, Korea, in June 2023. It was my first time to give a poster presentation at the international conference. This event marked my first interaction with researchers from around the world. I received valuable advice and feedback; some researchers offered insightful guidance, while others found my work inspiring. I made an effort to actively connect with the global research community, aiming to expand my network and seize the full potential of this enriching experience. 
 
