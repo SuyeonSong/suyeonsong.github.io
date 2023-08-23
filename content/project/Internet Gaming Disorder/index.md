@@ -3,7 +3,7 @@ title: IGD
 summary: Predicting the biopsychosocial factors of Internet Gaming Disorder from ABCD study and using machine learning approaches
 tags: 
   - 
-date: '2023-08'
+date: 2023-01-01T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

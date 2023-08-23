@@ -3,7 +3,7 @@ title: Harukong
 summary: Predicting the next day's moods using mood journal app
 tags: 
   - 
-date: '2023-03'
+date: 2023-03-01T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
