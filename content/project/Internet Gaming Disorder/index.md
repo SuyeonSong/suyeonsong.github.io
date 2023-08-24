@@ -1,5 +1,5 @@
 ---
-title: IGD
+title: Internet Gaming Disorder
 summary: Predicting the biopsychosocial factors of Internet Gaming Disorder from ABCD study and using machine learning approaches
 tags: 
   - 
