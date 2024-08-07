@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Aug 2022
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,11 +25,11 @@ date_format: Jan 2006
 experience:
   - title: MA in Clinical Psychology
     company: Seoul National University
-    # company_url: ''
+    company_url: 'https://ccs-lab.github.io/'
     # company_logo: org-gc
     location: Seoul, South Korea
     date_start: '2022-09-01'
-    date_end: ''
+    date_end: '2024-08-29'
     # description: |2-
 
   - title: BA in Psychology and Chinese Language & Literature
