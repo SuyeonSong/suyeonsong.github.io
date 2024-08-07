@@ -6,7 +6,7 @@ subtitle: 23-25 August, 2023, Incheon, Korea
 summary: Presented a poster at the 8th International Conference on Behavioral Addictions (ICBA 2023).
 
 # Link this post with a project
-projects: []
+projects: [Internet Gaming Disorder]
 
 # Date published
 date: 2023-08-23T00:00:00Z
